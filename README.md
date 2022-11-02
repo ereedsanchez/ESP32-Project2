@@ -8,6 +8,7 @@ I want to create security camera system using ESP32s. I am interested in DIY cam
 
 ### Links to Documentation
 [Random Nerd Tutorials: ESP32-CAM Video Streaming Web Server](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
+[Video: DIY WiFi Security Camera ESP32-CAM Rechargeable | Step by step Tutorial](https://www.youtube.com/watch?v=0uz-YrfaSO8)
 
 
 ### Steps I Followed (with notes)
