@@ -12,3 +12,8 @@ I want to create security camera system using ESP32s. I am interested in DIY cam
 
 
 ### Steps I Followed (with notes)
+1. Installed ESP32 drivers on Macbook Air.  Documentation: 
+2. Used the code from link:
+3. Upload code using Arduino
+4. Had error: Copy of error
+⋅⋅* Fixed error by doing.....
